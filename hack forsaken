@@ -1,0 +1,6 @@
+print("script của tui chạy rồi 😎")
+
+-- full bright
+game.Lighting.Brightness = 5
+game.Lighting.ClockTime = 14
+game.Lighting.FogEnd = 100000
